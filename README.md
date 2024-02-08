@@ -3,13 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luancardoso35&label=Profile%20views&color=0e75b6&style=flat" alt="luancardoso35" /> </p>
 
-- 🔭 I’m currently working on [Recipie](https://github.com/luancardoso35/ReciPie)
 
-- 🌱 I’m currently learning **react native, spring**
+- 🌱 I’m currently learning **PHP, Angular**
 
 - 👨‍💻 All of my projects are available at [https://github.com/luancardoso35/](https://github.com/luancardoso35/)
 
-- 💬 Ask me about **react, php, java**
+- 💬 Ask me about **React, PHP, Java, Javascript**
 
 - 📫 How to reach me **luancaardoso10@gmail.com**
 
