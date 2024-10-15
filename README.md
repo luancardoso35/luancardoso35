@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luancardoso35&label=Profile%20views&color=0e75b6&style=flat" alt="luancardoso35" /> </p>
 
 
-- 🌱 I’m currently learning **PHP, Angular**
+- 🌱 I’m currently learning **Typescript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/luancardoso35/](https://github.com/luancardoso35/)
 
-- 💬 Ask me about **React, PHP, Java, Javascript**
+- 💬 Ask me about **React, PHP, Java, Javascript, Typescript**
 
 - 📫 How to reach me **luancaardoso10@gmail.com**
 
